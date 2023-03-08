@@ -53,6 +53,7 @@
     "tanvd.grazi",
     "training",
     "training.git"
+    "text"
   ],
   "modules": [
     "com.intellij.modules.externalSystem",
